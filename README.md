@@ -1,4 +1,4 @@
-👋 Hi, I’m Sunny Sun!
+👋 Hi, I’m Sunny Sun ☀️ !
 I’m a Data Science student at UCSD with a passion for exploring data and transforming it into actionable insights. My interests include machine learning, AI, and building solutions that make technology accessible to everyone.
 
 🌟 What I love:
