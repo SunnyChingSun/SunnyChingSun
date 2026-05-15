@@ -1,11 +1,13 @@
-👋 Hi, I’m Sunny Sun ☀️ !
-I’m a Data Science student at UCSD with a passion for exploring data and transforming it into actionable insights. My interests include machine learning, AI, and building solutions that make technology accessible to everyone.
+### Hi, I’m Sunny ☀️
 
-🌟 What I love:
+Data Science @ UC San Diego.
 
-- 🧹 Cleaning and analyzing data to uncover patterns
-- 💻 Developing data-driven projects
-- 🤝 Mentoring high school students in STEM
+I turn data into patterns, ideas, and useful things.
+
+Interested in AI, visualization, and building tools that make life a little easier.
+
+**Data is beautiful.**
+
 <!---
 SunnyChingSun/SunnyChingSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
