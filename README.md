@@ -8,6 +8,7 @@ Interested in AI, visualization, and building tools that make life a little easi
 
 **Data is beautiful.**
 
+See my story and creations: [sunnychingsun.github.io](https://sunnychingsun.github.io/)
 <!---
 SunnyChingSun/SunnyChingSun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
